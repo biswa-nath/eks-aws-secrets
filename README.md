@@ -78,7 +78,7 @@ This will:
 5. Delete the IAM policy
 6. Delete the AWS Secrets Manager secret
 
-## Security Considerations
+## Security Considerations 
 
 - The IAM policy follows the principle of least privilege
 - Secrets are only accessible to pods using the specified service account
